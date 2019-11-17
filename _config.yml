@@ -1,3 +1,3 @@
-theme: default
-title: Knowledge 
-description: A site to reflect and refresh on previous insights. 
+collections:
+  authors:
+    output: true
