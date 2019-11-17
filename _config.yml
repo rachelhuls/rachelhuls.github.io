@@ -22,3 +22,15 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+navigation_header:
+- title: Home
+  url: /
+- title: Hobbies
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Subjects
+  url: /categories/
+- title: Search
+  url: /search/
