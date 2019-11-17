@@ -34,3 +34,15 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
+  
+navigation_footer:
+- title: Created by Rachel Huls
+  url: /about/
+  
+social_links: 
+  #Twitter: https://twitter.com/usrname
+  #LinkedIn: https://www.linkedin.com/in/usrname
+  GitHub: https://github.com/rachelhuls
+  #link: https://sitename.com
+  #RSS: /feed.xml
+  email: rh@hulsfamily.com
