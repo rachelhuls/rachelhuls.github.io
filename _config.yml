@@ -5,19 +5,29 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
       type: "posts"
     values:
       layout: "post"
   - scope:
       path: ""
+      type: "notes"
+    values:
+      layout: "note"
+  - scope:
+      path: ""
+      type: "hobbies"
+    values:
+      layout: "hobby"
+  - scope:
+      path: ""
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "about"
+    values:
+      layout: "about"
   - scope:
       path: ""
     values:
@@ -26,14 +36,16 @@ defaults:
 navigation_header:
 - title: Home
   url: /
+- title: Notes
+  url: /notes/
 - title: Hobbies
-  url: /elements/
+  url: /hobbies/
 - title: Blog
   url: /blog/
-- title: Subjects
-  url: /categories/
-- title: Search
-  url: /search/
+- title: Projects
+  url: /projects/
+- title: About
+  url: /about/
   
 navigation_footer:
 - title: Created by Rachel Huls
