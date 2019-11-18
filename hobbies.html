@@ -1,0 +1,13 @@
+---
+title: Hobbies
+---
+<h1>Things That Entertain</h1>
+
+<ul>
+  {% for hobby in site.hobbies %}
+    <li>
+      <h2><a href="{{ hobby.url }}">{{ hobby.title }}</a></h2>
+      <p>{{ hobby.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
