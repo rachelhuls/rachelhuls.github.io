@@ -1,5 +1,11 @@
 collections:
-  authors:
+  posts:
+    output: true
+  notes:
+    output: true
+  hobbies:
+    output: true
+  projects:
     output: true
 
 defaults:
@@ -23,11 +29,6 @@ defaults:
       type: "projects"
     values:
       layout: "project"
-  - scope:
-      path: ""
-      type: "about"
-    values:
-      layout: "about"
   - scope:
       path: ""
     values:
