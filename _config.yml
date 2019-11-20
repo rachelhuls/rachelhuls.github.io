@@ -1,9 +1,6 @@
 collections:
-  posts:
-    output: true
+
   notes:
-    output: true
-  hobbies:
     output: true
   projects:
     output: true
@@ -11,19 +8,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
       type: "notes"
     values:
       layout: "note"
-  - scope:
-      path: ""
-      type: "hobbies"
-    values:
-      layout: "hobby"
   - scope:
       path: ""
       type: "projects"
@@ -39,10 +26,6 @@ navigation_header:
   url: /
 - title: Notes
   url: /notes/
-- title: Hobbies
-  url: /hobbies/
-- title: Blog
-  url: /blog/
 - title: Projects
   url: /projects/
 - title: About
