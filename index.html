@@ -10,17 +10,12 @@ title: Home
     <link rel="stylesheet" href="/assets/css/styles.css">
     
   </head>-->
-  <body class="{{page.title}}">
-    <header>
-      <div class="nav">
-        <ul>
-          {% for item in site.data.navigation %}
-            <li class="{{item.name}}"><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-      <h1>{{ "I just want to be an interpreter between nature and man."  }}</h1>
-     </header>
+<h1>{{ page.title }}</h1>
 
-  </body>
-</html>
+  <!--<body class="{{page.title}}">-->
+{% include navigation.html%}
+{{ content }}
+
+
+<!--</body>
+</html>-->
