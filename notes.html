@@ -1,13 +1,15 @@
 ---
 title: Notes
 ---
-<h1>Latest Updates</h1>
-
+<h1>Subjects </h1>
 <ul>
-  {% for note in site.notes %}
-    <li>
-      <h2><a href="{{ note.url }}">{{ note.title }}</a></h2>
-      <p>{{ note.excerpt }}</p>
-    </li>
+{% for subject in site.data.subjects %}
+    <h3>{{ subject.title }}</h3>
+      <ul>
+        {% for component in subject.subfolderitems %}
+          <li><a href="{{ component.url }}">{{ component.page }}</a></li>
+        {% endfor %}
+      </ul>
   {% endfor %}
 </ul>
+
