@@ -12,4 +12,25 @@ title: Notes
       </ul>
   {% endfor %}
 </ul>
-
+<div>
+{% if site.data.subjects[0] %}
+  {% for subject in site.data.subjects %}
+    <h3>{{ subject.title }}</h3>
+      {% if subject.subfolderitems[0] %}
+        <ul>
+          {% for entry in subject.subfolderitems %}
+              <li><a href="{{ entry.url }}">{{ entry.page }}</a>
+                {% if entry.subsubfolderitems[0] %}
+                  <ul>
+                  {% for subentry in entry.subsubfolderitems %}
+                      <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
+                  {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+{% endif %}
+</div>
