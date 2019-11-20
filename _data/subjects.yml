@@ -7,31 +7,24 @@ subjects:
         url: /geometry.html
       - page: Calculus 
         url: calculus.html
-        subsubfolderitems:
-          - page: Calc 1
-            url: /calc1.html
-          - page: Calc 2
-            url: /calc2.html
-          - page: Calc 3
-            url: /calc3.html
+      - page: Calc 1
+        url: /calc1.html
+      - page: Calc 2
+        url: /calc2.html
+      - page: Calc 3
+        url: /calc3.html
       - page: Differential Equations
         url: diff-eq.html
   - title: Science
     subfolderitems:
-      - page: Physics 
-        url: /physics.html
-        subsubfolderitems:
-          - page: Physics Mechanics
-            url: /mech.html
-          - page: Electromagnetism 
-            url: /e-and-m.html
+      - page: Physics Mechanics
+        url: /mech.html
+      - page: Electromagnetism 
+        url: /e-and-m.html
       - page: Chemistry 
         url: /chemistry.html
       - page: Biology 
         url: /biology.html
-        subsubfolderitems:
-          - page: Human Biology
-            url: /human-bio.html
 
   - title: Computer Science
     subfolderitems:
