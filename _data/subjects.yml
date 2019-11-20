@@ -1,38 +1,38 @@
   - title: Math
     subfolderitems:
       - page: Algebra
-        url: /algebra.html
+        url: /notes/algebra.html
       - page: Geometry
-        url: /geometry.html
+        url: /notes/geometry.html
       - page: Calculus 
-        url: calculus.html
+        url: /notes/calculus.html
       - page: Calc 1
-        url: /calc1.html
+        url: /notes/calc1.html
       - page: Calc 2
-        url: /calc2.html
+        url: /notes/calc2.html
       - page: Calc 3
-        url: /calc3.html
+        url: /notes/calc3.html
       - page: Differential Equations
-        url: diff-eq.html
+        url: /notes/diff-eq.html
   - title: Science
     subfolderitems:
       - page: Physics Mechanics
-        url: /mech.html
+        url: /notes/mech.html
       - page: Electromagnetism 
-        url: /e-and-m.html
+        url: /notes/e-and-m.html
       - page: Chemistry 
-        url: /chemistry.html
+        url: /notes/chemistry.html
       - page: Biology 
-        url: /biology.html
+        url: /notes/biology.html
 
   - title: Computer Science
     subfolderitems:
       - page: Java
-        url: /java.html
+        url: /notes/java.html
       - page: Python
-        url: /python.html
+        url: /notes/python.html
       - page: Data Structures
-        url: /data-struct.html
+        url: /notes/data-struct.html
       - page: Algorithms
-        url: /algorithms.html
+        url: /notes/algorithms.html
   
