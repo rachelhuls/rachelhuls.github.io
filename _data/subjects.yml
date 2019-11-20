@@ -4,7 +4,7 @@ subjects:
       - page: Algebra
         url: /algebra.html
       - page: Geometry
-      url: /geometry.html
+        url: /geometry.html
       - page: Calculus 
         url: calculus.html
         subsubfolderitems:
