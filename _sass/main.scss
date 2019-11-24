@@ -32,7 +32,10 @@ Olive: #7D7669
 */
 body {
   margin: 0;
-  background: #FDF8F2;
+  background: #EBD8CA;
+  color: #4A4F52;
+  font-weight: 400;
+  line-height:1.2;
 }
  
 .nav ul {
@@ -75,29 +78,13 @@ body {
     line-height: 50px;
     font-size: 1.4em;
   }
- 
-  /* Option 1 - Display Inline */
   .nav li {
     display: inline-block;
     margin-right: -4px;
   }
- 
-  /* Options 2 - Float
-  .nav li {
-    float: left;
-  }
-  .nav ul {
-    overflow: auto;
-    width: 600px;
-    margin: 0 auto;
-  }
-  .nav {
-    background-color: #444;
-  }
-  */
 }
 .note{
   margin: 0;
   padding: 0;
   background: #FDF8F2;
-}
+
