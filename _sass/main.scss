@@ -9,21 +9,12 @@
 }
 
 /*
-Ivory: #FDF8F2
-Cream: #EEE2CB
-Sand: #ECDFCE
-Mocha: #977E6F
-Taupe: #9E8A81
-Beige: #D5BEAC
-Nude: #EBD8CA
-Tan: #B0907B
-Camel: #A87C5F
-Army: #736D49
-Khaki: #6F735C
-Black: #231F20
-Charcoal: #4A4F52
-Gray: #A9AEB2
-Olive: #7D7669
+light-blue: #B7D8D6
+med blue: #789E9E
+grey: #4D6466
+cream: #EEF3DB
+red: #FE615A
+
 */
 body {
   margin: 0;
@@ -67,18 +58,20 @@ body {
 .page-container {
   position: relative;
   min-height: 100vh;
-  background-color: #EEE2CB;
+  background-color: #B7D8D6;
 }
 
 .content-wrap {
-  background-color: #FDF8F2;
+  background-color: #EEF3DB;
   padding-bottom: 2.5rem;    /* Footer height */
-  color: #7D7669;
+  color: #4D6466;
+  margin: 20px;
+  padding: 10px;
 }
 
 .footer {
-  color: #A9AEB2;
-  background-color: #4A4F52;
+  color: #EEF3DB;
+  background-color: #4D6466;
   position: absolute;
   bottom: 0;
   width: 100%;
