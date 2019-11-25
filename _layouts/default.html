@@ -7,10 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
+    {% include header.html %}
+    {% include navigation.html%}
   </head> 
   <body>
-  {% include header.html %}
-  {% include navigation.html%}
       <div class="page-container">
       <div class="content-wrap">
         {{ content }}
