@@ -9,11 +9,11 @@
 }
 
 /*
-light-blue: #B7D8D6
-med blue: #789E9E
-grey: #4D6466
-cream: #ECF4F3
-red: #FE615A
+black: 303841
+red: FE615A
+blue: 00ADB5
+orange: FF5722
+white: EEEEEE
 
 */
 body {
@@ -58,20 +58,20 @@ body {
 .page-container {
   position: relative;
   min-height: 100vh;
-  background-color: #B7D8D6;
+  background-color: #FFF4E3;
 }
 
 .content-wrap {
-  background-color: #ECF4F3;
+  background-color: #EEEEEE;
   padding-bottom: 2.5rem;    /* Footer height */
-  color: #4D6466;
+  color: #303841;
   margin: 20px;
   padding: 10px;
 }
 
 .footer {
-  color: #EEF3DB;
-  background-color: #4D6466;
+  color: #EEEEEE;
+  background-color: #303841;
   position: absolute;
   bottom: 0;
   width: 100%;
