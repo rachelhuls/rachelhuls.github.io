@@ -1,3 +1,7 @@
+title: Rachel Huls
+description: This is my personal website.
+url: https://rachelhuls.github.io/
+
 collections:
   notes:
     output: true
@@ -27,12 +31,14 @@ navigation_header:
   url: /notes/
 - title: Projects
   url: /projects/
+- title: Blog
+  url: /blog/
 - title: About
   url: /about/
   
 navigation_footer:
 - title: Created by Rachel Huls
-  url: /about/
+  url: https://rachelhuls.github.io/
   
 social_links: 
   #Twitter: https://twitter.com/usrname
