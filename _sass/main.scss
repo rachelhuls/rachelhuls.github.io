@@ -70,7 +70,7 @@ body {
 }
 
 .content-wrap {
-  background-color: #4A4F52;
+  background-color: #FDF8F2;
   padding-bottom: 2.5rem;    /* Footer height */
 }
 
@@ -80,6 +80,9 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
+  text-align: center;
+  padding: 10px
+  overflow: hidden;
   height: 2.5rem;            /* Footer height */
 }
  
