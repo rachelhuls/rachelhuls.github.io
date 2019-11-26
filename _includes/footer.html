@@ -1,14 +1,9 @@
 <footer class="footer">
-   <div class="footer-heading">
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- endif -%}
-          </li>
-          {%- if site.email -%}
-          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-     ``</ul>
-  </div>
+  {%- if site.author -%}
+   <ul>
+  {{ site.author | escape }}
+  {%- endif -%}
+  {%- if site.email -%}
+   <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+   </ul>
 </footer>
