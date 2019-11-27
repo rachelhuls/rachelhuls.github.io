@@ -85,6 +85,12 @@ body {
   padding: 10px;
   height: 10rem;            /* Footer height */
 }
+.footer-link a:link{
+   color:#E8E8E8; 
+}
+.footer-link a:hover{
+   color:#FFFFFF; 
+}
  
 @media screen and (min-width: 600px) {
   .nav li {
