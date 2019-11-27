@@ -49,6 +49,7 @@ body {
 }
  
 .nav a {
+  float: left;
   text-decoration: none;
   color: #fff;
   display: block;
@@ -101,8 +102,29 @@ body {
 .footer a:visited{
    color:#D7DBDC; 
 }
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+.card{
+  color: #00ADB5;
+  margin-top: 20px;
+  padding: 20px;
+}
 
  
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
 @media screen and (min-width: 600px) {
   .nav li {
     width: 120px;
