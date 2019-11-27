@@ -34,12 +34,18 @@ body {
 }
 .nav ul {
   list-style: none;
-  background-color: #303841;
+  background-color: #333;
   padding: 0;
+  overflow: hidden;
   margin: 0;
-}
+  position: sticky;
+  top: 0;
+  border-bottom: 5px solid #00ADB5;
+
 .nav li {
   float: left;
+  background-color: #333;
+
 } 
 .nav li a{
   display: block;
@@ -49,7 +55,6 @@ body {
   padding: 14px 20px;
   background-color: #333;
   height: 40px;
-  border-bottom: 1px solid #00ADB5;
 }
 
 .nav a {
@@ -60,15 +65,16 @@ body {
   transition: .3s background-color;
 }
  
+ 
 .nav a:hover {
-  background-color: #00ADB5;
+  background-color: #006169;
 }
  
 .nav a.active {
-  background-color: #fff;
-  color: #444;
+  background-color: #00ADB5;
+  color: #fff;
   cursor: default;
-}
+  }
 .page-container {
   position: relative;
   min-height: 100vh;
