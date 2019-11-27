@@ -32,6 +32,10 @@ body {
   line-height:1.2;
   
 }
+.nav {
+  position: sticky;
+  top: 0;
+}
 .nav ul {
   list-style: none;
   background-color: #333;
