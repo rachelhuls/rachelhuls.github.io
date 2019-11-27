@@ -1,11 +1,7 @@
 <div class="nav">
   <ul>
     {% for item in site.data.navigation %}
-      {%if item.name == "About"%}
-      <li class="{{item.name}}"><a href="{{ item.link }}" style="float:right" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
-      {%else%}
-      <li class="{{item.name}}"><a href="{{ item.link }}" style="float:left"{% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
-    {% endif %}
+      <li class="{{item.name}}"><a href="{{ item.link }}"{% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
     {% endfor %}
   </ul>
 </div>
