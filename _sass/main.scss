@@ -60,6 +60,9 @@ body {
   position: relative;
   min-height: 100vh;
   background-color: #FFF4E3;
+  background: radial-gradient(circle, white 10%, transparent 10%),
+  radial-gradient(circle, white 1%, #F2F2F2 1%) 80px 80px;
+  background-size:30px 30px;
 }
 
 .content-wrap {
