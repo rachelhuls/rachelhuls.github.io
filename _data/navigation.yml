@@ -4,5 +4,7 @@
   link: /notes.html
 - name: Projects
   link: /projects.html
+- blog: Blog
+  link: /blog.html
 - name: About
   link: /about.html
