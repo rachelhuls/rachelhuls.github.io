@@ -5,6 +5,7 @@
       <li class="{{item.name}}"><a href="{{ item.link }}" style="float:right" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
       {%else%}
       <li class="{{item.name}}"><a href="{{ item.link }}" style="float:left"{% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
+    {% endif %}
     {% endfor %}
   </ul>
 </div>
