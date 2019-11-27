@@ -95,13 +95,13 @@ body {
   padding: 10px;
   height: 10rem;            /* Footer height */
 }
-#footer-link:link{
+.footer a{
    color:#D7DBDC; 
 }
-#footer-link:hover{
+.footer a:hover{
    color:#FFFFFF; 
 }
-#footer-link:visited{
+.footer a:visited{
    color:#D7DBDC; 
 }
 
