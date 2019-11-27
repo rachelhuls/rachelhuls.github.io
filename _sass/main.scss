@@ -41,13 +41,17 @@ body {
   margin: 0;
 }
 .nav li {
+  float: left;
+} 
+.nav li a{
+  display: block;
   font-family: Arial;
   font-size: 1.2em;
   line-height: 40px;
   height: 40px;
   border-bottom: 1px solid #00ADB5;
 }
- 
+
 .nav a {
   float: left;
   text-decoration: none;
