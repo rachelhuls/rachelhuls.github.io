@@ -67,14 +67,11 @@ body {
 .page-container {
   position: relative;
   min-height: 100vh;
-  background-color: #F2F2F2;
-  background: radial-gradient(circle, #F2F2F2 10%, transparent 10%),
-  radial-gradient(circle, #F2F2F2 1%, #E4E4E4 1%) 80px 80px;
-  background-size:20px 20px;
+  background-color: white;
 }
 
 .content-wrap {
-  background-color: #EEEEEE;
+  background-color: white;
   font-family: 'Barlow', sans-serif;
   padding-bottom: 2.5rem;    /* Footer height */
   color: #303841;
