@@ -1,5 +1,6 @@
 ---
 title: About
+layout: about
 short_name: rachel
 name: Rachel Huls
 ---
