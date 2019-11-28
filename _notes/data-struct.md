@@ -11,18 +11,18 @@ layout: note
  ### * Positional List
  ## Stacks
  ## Queues
- ### Circular Queue
- ### Priority Queue
+ ### * Circular Queue
+ ### * Priority Queue
  ## Maps
- ### Hash Table
+ ### * Hash Table
  ## Trees
- ### Binary Tree
- ### Linked Binary Tree
- ### Balanced Binary Search Tree
- ### AVL Tree
- ### Red Black Tree
- ### Splay Tree
- ### B Trees
+ ### * Binary Tree
+ ### * Linked Binary Tree
+ ### * Balanced Binary Search Tree
+ ### * AVL Tree
+ ### * Red Black Tree
+ ### * Splay Tree
+ ### * B Trees
  ## Graphs
- ### Directed vs Undirected
- ### Weighted vs Unweighted
+ ### * Directed vs Undirected
+ ### * Weighted vs Unweighted
