@@ -6,12 +6,12 @@
   font-weight: 400;
   padding: 10px; 
   text-align: center; 
-  background: white; 
-  color: #303841; 
+  background: #EEF0F2; 
+  color: #393738; 
 }
-.header header-description {
+.header p {
   font-family: 'Barlow', sans-serif;
-
+  color: #6C6A6B; 
   font-weight: 100i;
 }
 
@@ -25,7 +25,7 @@ white: EEEEEE
 body {
   margin: 0;
   font-family: Arial;
-  background: #EEEEEE;
+  background: #393738;
   color: #303841;
   font-weight: 400;
   line-height:1.2;
@@ -37,24 +37,24 @@ body {
 }
 .nav ul {
   list-style: none;
-  background-color: #303841;
+  background-color: #393738;
   padding: 0;
   overflow: hidden;
   margin: 0;
   top: 0;
-  border-bottom: 5px solid #00ADB5;
+  border-bottom: 5px solid #8AA794;
 }
 .nav li {
   float: left;
   position: relative;
-  background-color: #303841;
+  background-color: #393738;
 
 } 
 .nav li a{
   font-family: Arial;
   font-size: 1.2em;
   line-height: 30px;
-  background-color: #303841;
+  background-color: #393738;
   padding: 14px 14px;
   height: 40px;
   position: relative;
@@ -73,12 +73,12 @@ body {
  
  
 .nav a:hover {
-  background-color: #006169;
+  background-color: #3E5B48;
   
 }
  
 .nav a.current {
-  background-color: #00ADB5;
+  background-color: #8AA794;
   color: #fff;
   cursor: default;
   }
@@ -98,8 +98,8 @@ body {
 
 
 .footer {
-  color: #EEEEEE;
-  background-color: #303841;
+  color: #393738;
+  background-color: #EEF0F2;
   position: static;
   bottom: 0;
   width: 100%;
@@ -107,13 +107,13 @@ body {
   padding: 10px;
 }
 .footer a{
-   color:#D7DBDC; 
+   color:#393738; 
 }
 .footer a:hover{
-   color:#FFFFFF; 
+   color:#393738; 
 }
 .footer a:visited{
-   color:#D7DBDC; 
+   color:#393738; 
 }
 .leftcolumn {   
   float: left;
