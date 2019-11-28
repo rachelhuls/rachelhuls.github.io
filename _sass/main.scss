@@ -1,4 +1,4 @@
-.current {
+	.current {
   color: green;
 }
 .header {
@@ -21,7 +21,6 @@ red: FE615A
 blue: 00ADB5
 orange: FF5722
 white: EEEEEE
-
 */
 body {
   margin: 0;
@@ -80,7 +79,7 @@ body {
   cursor: default;
   }
 .page-container {
-  position: relative;
+  position: static;
   min-height: 100vh;
   background-color: white;
 }
@@ -88,7 +87,6 @@ body {
 .content-wrap {
   background-color: white;
   font-family: 'Barlow', sans-serif;
-  padding-bottom: 2.5rem;    /* Footer height */
   color: #303841;
   margin: 20px;
   padding: 10px;
@@ -99,12 +97,11 @@ body {
 .footer {
   color: #EEEEEE;
   background-color: #303841;
-  position: absolute;
+  position: static;
   bottom: 0;
   width: 100%;
   text-align: center;
   padding: 10px;
-  height: 10rem;            /* Footer height */
 }
 .footer a{
    color:#D7DBDC; 
@@ -127,7 +124,7 @@ body {
 }
 .card{
   color: #00ADB5;
-  margin-top: 20px;
+  margin: 20px;
   padding: 20px;
 }
 
@@ -151,6 +148,7 @@ body {
     display: inline-block;
     margin-right: -4px;
   }
+
 }
 .note{
   margin: 0;
