@@ -3,6 +3,7 @@ description: This is my personal website.
 url: https://rachelhuls.github.io/
 author: Rachel Huls
 email: rh@hulsfamily.com
+profile_pic: meFenceSquare.png
 
 collections:
   notes:
