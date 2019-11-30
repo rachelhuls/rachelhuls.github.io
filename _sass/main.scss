@@ -58,8 +58,6 @@ body {
   padding: 14px 14px;
   height: 40px;
   position: relative;
-
-
 }
 
 .nav a {
@@ -69,12 +67,10 @@ body {
   color: #fff;
   display: block;
   transition: .3s background-color;
-}
- 
- 
+} 
+
 .nav a:hover {
-  background-color: #7B9885;
-  
+  background-color: #7B9885;  
 }
  
 .nav a.current {
@@ -82,13 +78,12 @@ body {
   color: #fff;
   cursor: default;
   }
+
+
 .page-container {
   position: static;
   min-height: 100%;
   height: auto;
-  margin: 0 auto -60px;
-  padding: 0 0 60px;
-
 }
 
 .content-wrap {
@@ -117,8 +112,6 @@ body {
   position: static;
   bottom: 0;
   width: 100%;
-  height: 60px;
-  padding-top: 60px;
   text-align: center;
 }
 .footer a{
