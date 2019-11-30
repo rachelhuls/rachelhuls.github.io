@@ -106,7 +106,11 @@ body {
 .img-circle{
   border-radius: 50%;
 }
-
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 .footer {
   color: #393738;
   background-color: #8AA794;
