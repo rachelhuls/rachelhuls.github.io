@@ -3,8 +3,7 @@ title: Chemistry
 category: science
 layout: note
 ---
-
- ## Topics
+## Topics
  * Balanced Chemical Reactions
  * Stoichiometry
  * Limiting Reagent
