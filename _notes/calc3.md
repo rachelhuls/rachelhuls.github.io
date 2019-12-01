@@ -5,6 +5,13 @@ layout: note
 ---
 
 ## Topics
+* Common Derivatives
+* Common Integrals
+* Trig Identities
+* Vectors
+* Dot Product
+* Cross Product
+* Lines and Planes
 * Directional Derivatives
 * Tangent Planes
 * Approximations
