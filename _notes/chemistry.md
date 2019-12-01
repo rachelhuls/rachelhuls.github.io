@@ -5,7 +5,7 @@ layout: note
 ---
 
  ## Topics
- * Balance Chemical Reactions
+ * Balanced Chemical Reactions
  * Stoichiometry
  * Limiting Reagent
  * Reaction Yields
