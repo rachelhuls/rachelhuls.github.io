@@ -3,8 +3,7 @@ title: Data Structures
 category: compsci
 layout: note
 ---
- 
- ## Topics
+## Topics
  * Arrays
  * Lists
    * Singly Linked List
