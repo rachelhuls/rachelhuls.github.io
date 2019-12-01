@@ -13,10 +13,10 @@ layout: note
 * Double Integrals
 * Triple Integrals
 * Coordinate Systems
-** Rectangular
-** Polar
-** Cylindrical
-** Spherical
+  * Rectangular
+  * Polar
+  * Cylindrical
+  * Spherical
 * Surface Area of a Curve
 * Vector Fields
 * Line Integrals
@@ -26,10 +26,10 @@ layout: note
 * Divergence Theorem
 * Stokes' Theorem
 * Surfaces
-** Ellipsoids
-** Hyperboloid One Sheet
-** Hyperboloid Two Sheets
-** Eliptic Paraboloid
-** Hyperbolic Paraboloid
-** Elliptic Cone
-** Cylinder
+  * Ellipsoids
+  * Hyperboloid One Sheet
+  * Hyperboloid Two Sheets
+  * Eliptic Paraboloid
+  * Hyperbolic Paraboloid
+  * Elliptic Cone
+  * Cylinder
