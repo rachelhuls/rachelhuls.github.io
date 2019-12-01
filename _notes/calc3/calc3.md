@@ -1,5 +1,5 @@
 ---
 title: Calc 3
 category: math
-layout: notebook
+layout: note
 ---
