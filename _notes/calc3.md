@@ -4,7 +4,7 @@ category: math
 layout: note
 ---
 
-##Topics
+## Topics
 * Directional Derivatives
 * Tangent Planes
 * Approximations
