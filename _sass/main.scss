@@ -178,14 +178,24 @@ text-align: center;
 }
 .about-container{
 	display: flex;
+	flex-direction: row;
 	justify-content: space-around;
 	align-items: flex-start;
+
+}
+.left-col-container{
+	display: flex;
+	flex-direction: column;
+	flex-basis: 100%;
+
 
 }
 .right-col-container{
 	display: flex;
 	justify-content: space-between;
 	flex-direction: column;
+	  flex-basis: 100%;
+
 
 }
 
