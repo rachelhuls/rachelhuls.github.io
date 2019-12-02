@@ -1,0 +1,12 @@
+---
+title: Algebra
+---
+<h1>Topics </h1>
+<ul>
+{% for content in site.notes.algebra.contents %}
+    <h3>{{ content.title }}</h3>
+      <ul>
+        <li><a href="{{ content.url }}">{{ content.page }}</a></li>
+      </ul>
+  {% endfor %}
+</ul>
