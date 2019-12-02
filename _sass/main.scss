@@ -183,33 +183,13 @@ text-align: center;
 .about-container{
 	display: flex;
 	justify-content: center;
-	border: 1px solid red;
 	align-items: flex-start;
 
 }
-.left-col-container{
-	display: flex;
-	justify-content: space-around;
-	border: 1px solid pink;
-	flex-direction: column;
-
-
-}
-.basic-about{
-	display: flex;
-	justify-conent: flex-start;
-	border: 1px solid orange;
-
 .right-col-container{
 	display: flex;
-	justify-content: space-around;
-	border: 1px solid pink;
+	justify-content: space-between;
 	flex-direction: column;
 
 }
-# my-experience{
-  order: 1;
-} 
-# my-education{
-  order: 2;	
-} 
+
