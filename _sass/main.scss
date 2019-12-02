@@ -24,6 +24,11 @@ blue: 00ADB5
 orange: FF5722
 white: EEEEEE
 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 html,body{
 	margin: 0;
 }
@@ -174,4 +179,27 @@ text-align: center;
   margin: 0;
   padding: 0;
   background: #FDF8F2;
+}
+.about-container{
+	display: flex;
+	justify-content: center;
+	border: 1px solid red;
+
+}
+.left-col-container{
+	display: flex;
+	justify-content: space-around;
+	border: 1px solid pink;
+
+}
+.basic-about{
+	display: flex;
+	justify-conent: flex-start;
+	border: 1px solid orange;
+
+.right-col-container{
+	display: flex;
+	justify-content: space-around;
+	border: 1px solid pink;
+
 }
