@@ -12,6 +12,8 @@
         url: /notes/calc3.html
       - page: Differential Equations
         url: /notes/diff-eq.html
+      - page: Statistics
+        url: /notes/stats.html
   - title: Science
     subfolderitems:
       - page: Physics Mechanics
