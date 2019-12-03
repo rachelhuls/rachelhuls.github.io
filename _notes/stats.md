@@ -73,3 +73,27 @@ a way to match each item in the sample with a partner.
     Note: The lower the standard deviation, the more consistant the data. 
     
     
+# Tests for Qualitative Data 
+
+  ## The Chi-Square Goodness of Fit Test
+   
+    Conditions: 
+       * All expected frquencies are at least 1
+       * At most 20% of expected frequencies are less than 5
+       
+    This test checks if an observed sample of data fits with the an expected distribution. 
+    
+    The observed data is composed of whole numbers while the expected distribution is composed of decimals between 0 and 1. 
+    All of the expected distribution numbers should add to 1. 
+    
+  ## Contingency Table Analysis
+   
+    Conditions: 
+       * All expected frquencies are at least 1
+       * At most 20% of expected frequencies are less than 5 
+       
+    This test helps determine if choosing from a certain group affects the results. 
+    It is like the chi square goodness of fit test, but is arranged differently. 
+    
+    Null hypothesis: samples are independent
+    Alternate Hypothesis: samples are dependent
