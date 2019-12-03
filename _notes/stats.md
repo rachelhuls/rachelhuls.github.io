@@ -1,6 +1,7 @@
 ---
 title: Statistics
 category: math
+layout: note
 ---
 
 # Two Sample Testing
