@@ -20,12 +20,56 @@ Independent
 Pro tip: if the size of sample one is different from the size of sample two, the samples must be independent. Why? There isn't
 a way to match each item in the sample with a partner. 
 
-### Dependent Samples
+  ### Dependent Samples
  
- The Paired T Test 
+   #### The (Paired) T Test 
  
- Conditions: 
- * dependent samples
- * the differences in population data are normally distriuted or the sample size is greater than 30
+     Conditions: 
+       * Dependent samples
+       * Population differences are normally distriuted or the sample size is greater than 30
+       
+     We can use the T Test on the Ti-84 calculator. In order to do so, we must first put our data into list 1 and list 2. Then we can use list 3 to find the difference between list 1 and 2. List 3 is the list we will use in the T test. 
+     
+   #### The Wilcox Signed Rank Test
  
+     Conditions: 
+       * Dependent samples
+       * Population differences are symmetric
+     
+     This test also work for finding the median. 
+     
+  ### Independent Samples
+  
+  #### The Two Sample Z Test 
+  
+    Conditions: 
+       * Independent samples
+       * Normal populations or the sample size is greater than 30
+       * Population standard deviations are both known
+       
+  #### The Two Sample T Test (Welch's T Test)
+  
+    Conditions: 
+       * Independent samples
+       * Normal populations or the sample size is greater than 30
+       * Population standard deviations are both unknown
+    
+    When using the Two Sample T Test in the Ti-84, we select unpooled if we do not know anything about the population standard deviations and we are not assuming that the standard deviations are equal. 
+    
+## Testing for Differences in Population Proportions 
+
+  #### Two Proportion Z Test 
+    Conditions: 
+       * Independent samples
+       * np(1-p)>=10 for both samples (where p stands for p-hat)
  
+## Testing for Differences in Population Variance
+
+  #### Two Sample F Test for Two Population Standard Deviation
+    Conditions: 
+       * Independent samples
+       * Populations are normally distributed
+       
+    Note: The lower the standard deviation, the more consistant the data. 
+    
+    
