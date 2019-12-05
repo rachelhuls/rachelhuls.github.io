@@ -20,9 +20,9 @@ Independent
 Pro tip: if the size of sample one is different from the size of sample two, the samples must be independent. Why? There isn't
 a way to match each item in the sample with a partner. 
 
-  ### Dependent Samples
+### Dependent Samples
  
-   #### The (Paired) T Test 
+#### The (Paired) T Test 
  
      Conditions: 
        * Dependent samples
@@ -30,7 +30,7 @@ a way to match each item in the sample with a partner.
        
      We can use the T Test on the Ti-84 calculator. In order to do so, we must first put our data into list 1 and list 2. Then we can use list 3 to find the difference between list 1 and 2. List 3 is the list we will use in the T test. 
      
-   #### The Wilcox Signed Rank Test
+#### The Wilcox Signed Rank Test
  
      Conditions: 
        * Dependent samples
@@ -38,16 +38,16 @@ a way to match each item in the sample with a partner.
      
      This test also work for finding the median. 
      
-  ### Independent Samples
+### Independent Samples
   
-  #### The Two Sample Z Test 
+#### The Two Sample Z Test 
   
     Conditions: 
        * Independent samples
        * Normal populations or the sample size is greater than 30
        * Population standard deviations are both known
        
-  #### The Two Sample T Test (Welch's T Test)
+#### The Two Sample T Test (Welch's T Test)
   
     Conditions: 
        * Independent samples
@@ -58,14 +58,14 @@ a way to match each item in the sample with a partner.
     
 ## Testing for Differences in Population Proportions 
 
-  #### Two Proportion Z Test 
+#### Two Proportion Z Test 
     Conditions: 
        * Independent samples
        * np(1-p)>=10 for both samples (where p stands for p-hat)
  
 ## Testing for Differences in Population Variance
 
-  #### Two Sample F Test for Two Population Standard Deviation
+#### Two Sample F Test for Two Population Standard Deviation
     Conditions: 
        * Independent samples
        * Populations are normally distributed
@@ -75,7 +75,7 @@ a way to match each item in the sample with a partner.
     
 # Tests for Qualitative Data 
 
-  ## The Chi-Square Goodness of Fit Test
+## The Chi-Square Goodness of Fit Test
    
     Conditions: 
        * All expected frquencies are at least 1
@@ -86,7 +86,7 @@ a way to match each item in the sample with a partner.
     The observed data is composed of whole numbers while the expected distribution is composed of decimals between 0 and 1. 
     All of the expected distribution numbers should add to 1. 
     
-  ## Contingency Table Analysis
+## Contingency Table Analysis
    
     Conditions: 
        * All expected frquencies are at least 1
