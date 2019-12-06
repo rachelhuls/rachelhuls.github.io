@@ -1,7 +1,6 @@
 ---
-title: Read More
+title: My Bookshelf
 ---
-# A Look at My Bookshelf
 
 ## Read
 * A Farewell to Arms by Hemingway
