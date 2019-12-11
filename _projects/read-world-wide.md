@@ -4,9 +4,9 @@ title: World Wide Reading
 
 Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/thelist/)
 
-[]Afghanistan
+[ ] Afghanistan
 
-[]Albania
+[] Albania
 
 []Algeria
 
