@@ -4,7 +4,7 @@ title: World Wide Reading
 
 Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/thelist/)
 
-- [ ] Afghanistan
+- [ ] Afghanistan: The Kite Runner by Khaled Hosseini
 - [ ] Albania
 - [ ] Algeria
 - [ ] Andorra
@@ -46,7 +46,7 @@ Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/th
 - [ ] Costa Rica
 - [ ] Côte d'lvoire
 - [ ] Croatia
-- [ ] Cuba
+- [ ] Cuba: Cuba Libre by Yoani Sánchez
 - [ ] Cyprus
 - [ ] Czech Republic
 - [ ] Denmark
@@ -120,7 +120,7 @@ Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/th
 - [ ] Monaco
 - [ ] Mongolia
 - [ ] Montenegro
-- [ ] Morocco
+- [ ] Morocco: The Happy Marriage by "Ben Jelloun
 - [ ] Mozambique
 - [ ] Myabnar
 - [ ] Nambia
@@ -146,7 +146,7 @@ Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/th
 - [ ] Portugal
 - [ ] Qatar
 - [ ] Romania
-- [ ] Russia
+- [ ] Russia: The Aviator by Eugene Vodolazkin
 - [ ] Rwanda
 - [ ] Saint Kitts and Nevis
 - [ ] Saint Lucia
@@ -174,7 +174,7 @@ Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/th
 - [ ] Swaziland
 - [ ] Sweden
 - [ ] Switzerland
-- [ ] Syria
+- [ ] Syria: The Shell by Mustafa Khalifa
 - [ ] Taiwan
 - [ ] Tajikistan
 - [ ] Tanzania
