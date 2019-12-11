@@ -1,0 +1,12 @@
+---
+title: More About Computers
+subject: comp sci
+layout: note
+---
+
+### Resources
+* [What is a server?](https://www.lifewire.com/servers-in-computer-networking-817380)
+* [How does the internet work?](https://www.explainthatstuff.com/internet.html)
+* [The Shell: Linux Command Line](http://linuxcommand.org/lc3_learning_the_shell.php)
+* [HTTP Overview](https://www.tutorialspoint.com/http/http_overview.htm)
+* [SVG Basics](https://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html#HTML_basics)
