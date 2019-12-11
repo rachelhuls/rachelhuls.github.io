@@ -26,6 +26,13 @@ title: My Bookshelf
 * Beloved by Morrison
 * Through The Looking Glass by Carrol
 * Animal Farm by Orwell
+* Classic Myths to Read Aloud by Russel
+* Wonderful You by Gleeson
+* The Immortal Life of Henrietta Lacks by Skloot
+* Yes Please by Amy Poehler
+* How To Read Literature Like a Professor by Foster
+* Hollow City by Riggs
+* The Percy Jackson Series by Riordan 
 
 ## Future Reads
 * A Manual For Living by Epictetus
@@ -33,3 +40,11 @@ title: My Bookshelf
 * This is Water by David Foster Wallace
 * Adapt by Harford
 * Mastery by George Leonard
+* The Inferno by Dante Alighieri
+* One Flew Over the Cuckoo's Nest by Kesey
+* Accidental Saints by Nadia Bolz-Weber
+* Brave New World by Huxley 
+* Invisible Man by Ellison
+* Not All Superheroes Where Capes by Sam Glenn
+* The Poisonwood Bible by Kingsolver
+
