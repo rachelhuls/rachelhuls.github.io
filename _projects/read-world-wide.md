@@ -4,207 +4,199 @@ title: World Wide Reading
 
 Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/thelist/)
 
-[ ] Afghanistan
-
-[] Albania
-
-[]Algeria
-
-[]Andorra
-
-[]Angola
-
-[]Antigua and Barbuda
-
-[]Argentina
-
-[]Armenia
-
-[]Australia
-[]Austria
-[]Azerbaijan
-[]The Bahamas
-[]Bahrain
-[]Bangledesh
-[]Barbados
-[]Belarus
-[]Belgium
-[]Belize
-[]Benin
-[]Bhutan
-[]Bolivia
-[]Bosnia and Herzegovina
-[]Botswana
-[]Brazil
-[]Brunei
-[]Bulgaria
-[]Burkina Faso
-[]Burundi
-[]Cambodia
-[]Cameroon
-[]Canada
-[]Cape Verde
-[]Central African Republic
-[]Chad
-[]Chile
-[]China
-[]Columbia
-[]Comoros
-[]Congo
-[]Costa Rica
-[]Côte d'lvoire
-[]Croatia
-[]Cuba
-[]Cyprus
-[]Czech Republic
-[]Denmark
-[]Djibouti
-[]Dominica
-[]Dominican Republic
-[]East Timor
-[]Ecuador
-[]Egypt
-[]El Salvador
-[]Equatorial Guinea 
-[]Eritrea
-[]Estonia
-[]Ethiopia
-[]Fiji
-[]Finland
-[]France
-[]Gabon
-[]The Gambia
-[]Georgia
-[]Germany
-[]Ghana
-[]Greece
-[]Grenada
-[]Guatemala
-[]Guinea
-[]Guyana
-[]Haiti
-[]Honduras
-[]Hong Kong
-[]Hungary
-[]Iceland
-[]India
-[]Indonesia
-[]Iran
-[]Iraq
-[]Ireland
-[]Isreal
-[]Ital
-[]Jamaica
-[]Japan
-[]Jordan
-[]Kazakhstan
-[]Kenya
-[]Kiribati
-[]Kurdistan
-[]Kuwait
-[]Kyrgzstan
-[]Laos
-[]Latvia
-[]Lebanon
-[]Lesotho
-[]Liberia
-[]Libya
-[]Liechtenstein
-[]Lithuania
-[]Luxembourg
-[]Macedonia
-[]Madagascar
-[]Malawi
-[]Malaysia
-[]Maldives
-[]Mali
-[]Malta
-[]Marshall Islands
-[]Mauritania
-[]Mauritius
-[]Mexico
-[]Micronesia, Federate States of 
-[]Moldova
-[]Monaco
-[]Mongolia
-[]Montenegro
-[]Morocco
-[]Mozambique
-[]Myabnar
-[]Nambia
-[]Nauru
-[]Nepal
-[]Netherlands
-[]New Zealand
-[]Nicaragua
-[]Niger
-[]Nigeria
-[]North Korea
-[]Norway
-[]Oman
-[]Pakistan
-[]Palau
-[]Palestine
-[]Panama
-[]Papue New Guinea
-[]Paraguay
-[]Peru
-[]Phillipines
-[]Poland
-[]Portugal
-[]Qatar
-[]Romania
-[]Russia
-[]Rwanda
-[]Saint Kitts and Nevis
-[]Saint Lucia
-[]Saint Vincent and the Grenadines
-[]Samoa
-[]San Marino
-[]Sao Tome and Principe
-[]Saudi Arabia
-[]Senegal
-[]Serbia
-[]Sechelles
-[]Sierra Leone
-[]Singapore
-[]Slovakia
-[]Slovenia
-[]Solomon Islands
-[]Somalia
-[]South Afrika
-[]South Korea
-[]South Sudan
-[]Spain
-[]Sri Lanka
-[]Sudan
-[]Suriname
-[]Swaziland
-[]Sweden
-[]Switzerland
-[]Syria
-[]Taiwan
-[]Tajikistan
-[]Tanzania
-[]Thailand
-[]Togo
-[]Tonga
-[]Trinidad and Tobago
-[]Tunisia
-[]Turkey
-[]Turkmenistan
-[]Tuvalu
-[]Uganda
-[]Ukraine
-[]United Arab Emirates
-[]United Kingdom
-[]United States of America
-[]Uruguay
-[]Uzbekistan
-[]Vanuata
-[]Vatican City
-[]Venezuela
-[]Vietnam
-[]Yemen
-[]Zambia
-[]Zimbabwe
+- [ ] Afghanistan
+- [ ] Albania
+- [ ] Algeria
+- [ ] Andorra
+- [ ] Angola
+- [ ] Antigua and Barbuda
+- [ ] Argentina
+- [ ] Armenia
+- [ ] Australia
+- [ ] Austria
+- [ ] Azerbaijan
+- [ ] The Bahamas
+- [ ] Bahrain
+- [ ] Bangledesh
+- [ ] Barbados
+- [ ] Belarus
+- [ ] Belgium
+- [ ] Belize
+- [ ] Benin
+- [ ] Bhutan
+- [ ] Bolivia
+- [ ] Bosnia and Herzegovina
+- [ ] Botswana
+- [ ] Brazil
+- [ ] Brunei
+- [ ] Bulgaria
+- [ ] Burkina Faso
+- [ ] Burundi
+- [ ] Cambodia
+- [ ] Cameroon
+- [ ] Canada
+- [ ] Cape Verde
+- [ ] Central African Republic
+- [ ] Chad
+- [ ] Chile
+- [ ] China
+- [ ] Columbia
+- [ ] Comoros
+- [ ] Congo
+- [ ] Costa Rica
+- [ ] Côte d'lvoire
+- [ ] Croatia
+- [ ] Cuba
+- [ ] Cyprus
+- [ ] Czech Republic
+- [ ] Denmark
+- [ ] Djibouti
+- [ ] Dominica
+- [ ] Dominican Republic
+- [ ] East Timor
+- [ ] Ecuador
+- [ ] Egypt
+- [ ] El Salvador
+- [ ] Equatorial Guinea 
+- [ ] Eritrea
+- [ ] Estonia
+- [ ] Ethiopia
+- [ ] Fiji
+- [ ] Finland
+- [ ] France
+- [ ] Gabon
+- [ ] The Gambia
+- [ ] Georgia
+- [ ] Germany
+- [ ] Ghana
+- [ ] Greece
+- [ ] Grenada
+- [ ] Guatemala
+- [ ] Guinea
+- [ ] Guyana
+- [ ] Haiti
+- [ ] Honduras
+- [ ] Hong Kong
+- [ ] Hungary
+- [ ] Iceland
+- [ ] India
+- [ ] Indonesia
+- [ ] Iran
+- [ ] Iraq
+- [ ] Ireland
+- [ ] Isreal
+- [ ] Ital
+- [ ] Jamaica
+- [ ] Japan
+- [ ] Jordan
+- [ ] Kazakhstan
+- [ ] Kenya
+- [ ] Kiribati
+- [ ] Kurdistan
+- [ ] Kuwait
+- [ ] Kyrgzstan
+- [ ] Laos
+- [ ] Latvia
+- [ ] Lebanon
+- [ ] Lesotho
+- [ ] Liberia
+- [ ] Libya
+- [ ] Liechtenstein
+- [ ] Lithuania
+- [ ] Luxembourg
+- [ ] Macedonia
+- [ ] Madagascar
+- [ ] Malawi
+- [ ]  Malaysia
+- [ ] Maldives
+- [ ] Mali
+- [ ] Malta
+- [ ] Marshall Islands
+- [ ] Mauritania
+- [ ] Mauritius
+- [ ] Mexico
+- [ ] Micronesia, Federate States of 
+- [ ] Moldova
+- [ ] Monaco
+- [ ] Mongolia
+- [ ] Montenegro
+- [ ] Morocco
+- [ ] Mozambique
+- [ ] Myabnar
+- [ ] Nambia
+- [ ] Nauru
+- [ ] Nepal
+- [ ] Netherlands
+- [ ] New Zealand
+- [ ] Nicaragua
+- [ ] Niger
+- [ ] Nigeria
+- [ ] North Korea
+- [ ] Norway
+- [ ] Oman
+- [ ] Pakistan
+- [ ] Palau
+- [ ] Palestine
+- [ ] Panama
+- [ ] Papue New Guinea
+- [ ] Paraguay
+- [ ] Peru
+- [ ] Phillipines
+- [ ] Poland
+- [ ] Portugal
+- [ ] Qatar
+- [ ] Romania
+- [ ] Russia
+- [ ] Rwanda
+- [ ] Saint Kitts and Nevis
+- [ ] Saint Lucia
+- [ ] Saint Vincent and the Grenadines
+- [ ] Samoa
+- [ ] San Marino
+- [ ] Sao Tome and Principe
+- [ ] Saudi Arabia
+- [ ] Senegal
+- [ ] Serbia
+- [ ] Sechelles
+- [ ] Sierra Leone
+- [ ] Singapore
+- [ ] Slovakia
+- [ ] Slovenia
+- [ ] Solomon Islands
+- [ ] Somalia
+- [ ] South Afrika
+- [ ] South Korea
+- [ ] South Sudan
+- [ ] Spain
+- [ ] Sri Lanka
+- [ ] Sudan
+- [ ] Suriname
+- [ ] Swaziland
+- [ ] Sweden
+- [ ] Switzerland
+- [ ] Syria
+- [ ] Taiwan
+- [ ] Tajikistan
+- [ ] Tanzania
+- [ ] Thailand
+- [ ] Togo
+- [ ] Tonga
+- [ ] Trinidad and Tobago
+- [ ] Tunisia
+- [ ] Turkey
+- [ ] Turkmenistan
+- [ ] Tuvalu
+- [ ] Uganda
+- [ ] Ukraine
+- [ ] United Arab Emirates
+- [ ] United Kingdom
+- [ ] United States of America
+- [ ] Uruguay
+- [ ] Uzbekistan
+- [ ] Vanuata
+- [ ] Vatican City
+- [ ] Venezuela
+- [ ] Vietnam
+- [ ] Yemen
+- [ ] Zambia
+- [ ] Zimbabwe
