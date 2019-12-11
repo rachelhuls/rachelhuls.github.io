@@ -5,13 +5,21 @@ title: World Wide Reading
 Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/thelist/)
 
 []Afghanistan
+
 []Albania
+
 []Algeria
+
 []Andorra
+
 []Angola
+
 []Antigua and Barbuda
+
 []Argentina
+
 []Armenia
+
 []Australia
 []Austria
 []Azerbaijan
