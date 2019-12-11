@@ -1,9 +1,10 @@
 ---
-title: Data Structures
+title: Data Structures and Algorithms
 category: compsci
 layout: note
 ---
 ## Topics
+ * Big O Notation
  * Arrays
  * Lists
    * Singly Linked List
@@ -35,3 +36,5 @@ layout: note
   * [Book: Concise Notes on Data Structures and Algorithms](https://w3.cs.jmu.edu/spragunr/CS240_F12/ConciseNotes.pdf "Concise Notes")
   * [Big-O Analysis](https://www.bigocheatsheet.com "Big-O")
   * [Geeks-for-geeks: simple explanations and interactive code](https://www.geeksforgeeks.org/data-structures/ "Geeks")
+  * [Design and Analysis of Algorithms](https://www.tutorialspoint.com/design_and_analysis_of_algorithms/index.htm
+"Algorithms")
