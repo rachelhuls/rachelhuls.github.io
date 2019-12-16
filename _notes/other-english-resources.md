@@ -4,7 +4,7 @@ layout: note
 subject: english
 ---
 --- 
-<p align="center" font-size="24">
+<p align="center" font-size="36">
 “Substitute ‘damn’ every time you’re inclined to write ‘very’; <br/>your editor will delete it, and the writing will be just as it should be.” ~Mark Twain
 </p>
 ## Essay Outline Tools
