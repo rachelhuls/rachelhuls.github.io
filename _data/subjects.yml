@@ -1,13 +1,5 @@
   - title: Math
     subfolderitems:
-      - page: Algebra
-        url: /notes/algebra.html
-      - page: Geometry
-        url: /notes/geometry.html
-      - page: Calc 1
-        url: /notes/calc1.html
-      - page: Calc 2
-        url: /notes/calc2.html
       - page: Calc 3
         url: /notes/calc3.html
       - page: Differential Equations
@@ -22,9 +14,6 @@
         url: /notes/e-and-m.html
       - page: Chemistry 
         url: /notes/chemistry.html
-      - page: Biology 
-        url: /notes/biology.html
-
   - title: Computer Science
     subfolderitems:
       - page: General Computer Knowledge
