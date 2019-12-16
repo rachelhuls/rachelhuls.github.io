@@ -150,7 +150,23 @@ body {
 .blog h1{
 text-align: center;
 }
- 
+.map{
+  display: block;
+  position: absolute;
+  top: 10;
+  left: 10;
+  width: 100%;
+  height: 100%;
+}
+#read-world-map{
+path:hover, circle:hover {
+  stroke: #002868 !important;
+  stroke-width:2px;
+  stroke-linejoin: round;
+  fill: #002868 !important;
+  cursor: pointer;
+}
+}
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {   
     width: 100%;
