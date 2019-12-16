@@ -5,7 +5,7 @@ subject: english
 ---
 --- 
 <p align="center" font-size="24">
-“Substitute ‘damn’ every time you’re inclined to write ‘very’; your editor will delete it, and the writing will be just as it should be.”  **~Mark Twain**
+“Substitute ‘damn’ every time you’re inclined to write ‘very’; <br/>your editor will delete it, and the writing will be just as it should be.” ~Mark Twain
 </p>
 ## Essay Outline Tools
 > [Outline Maker](http://www.crlsresearchguide.org/NewOutlineMaker/NewOutlineMakerInput.aspx)
