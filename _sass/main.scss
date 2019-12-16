@@ -129,13 +129,6 @@ body {
    color:#393738; 
 }
 
-.card{
-  background-color: #F4F2F0;
-  color: #393738;
-  margin: 20px;
-  padding: 25px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
 /*---------------------------------------------- Blog ---------------------------------------*/
 
 .blog h1{
@@ -144,7 +137,7 @@ text-align: center;
 /*---------------------------------------------- Map ---------------------------------------*/
 
 .map{
-  display: block;
+  display: flex;
   margin: 20px;
 }
 #read-world-map{
@@ -210,5 +203,13 @@ path:hover, circle:hover {
 .rightcolumn {
   float: right;
   width: 25%;
+}
+
+.card{
+  background-color: #F4F2F0;
+  color: #393738;
+  margin: 20px;
+  padding: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
