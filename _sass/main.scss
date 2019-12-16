@@ -3,6 +3,8 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+/*---------------------------------------------- Header ---------------------------------------*/
+
 .header {
   font-family: Arial;
   font-weight: 400;
@@ -17,13 +19,8 @@ img {
   font-weight: 100i;
 }
 
-/*
-black: 303841
-red: FE615A
-blue: 00ADB5
-orange: FF5722
-white: EEEEEE
-*/
+
+/*---------------------------------------------- Body ---------------------------------------*/
 
 html,body{
   margin: 0;
@@ -36,9 +33,32 @@ body {
   line-height:1.2;
   display: flex;
   min-height: 100vh;
-  flex-direction: column;
-  
+  flex-direction: column; 
 }
+.page-container {
+  flex: 1;
+}
+.content-wrap {
+  background-color: white;
+  font-family: 'Barlow', sans-serif;
+  color: #303841;
+  margin: 20px;
+  padding: 10px;
+}
+.profile_pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-circle{
+  border-radius: 50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/*---------------------------------------------- Navigation ---------------------------------------*/
 .nav {
   position: sticky;
   top: 0;
@@ -87,31 +107,7 @@ body {
   cursor: default;
   }
 
-
-.page-container {
-  flex: 1;
-}
-
-.content-wrap {
-  background-color: white;
-  font-family: 'Barlow', sans-serif;
-  color: #303841;
-  margin: 20px;
-  padding: 10px;
-}
-.profile_pic{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.img-circle{
-  border-radius: 50%;
-}
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+/*---------------------------------------------- Footer ---------------------------------------*/
 .footer {
   color: #393738;
   background-color: #8AA794;
@@ -132,14 +128,7 @@ body {
 .footer a:visited{
    color:#393738; 
 }
-.leftcolumn {   
-  float: left;
-  width: 75%;
-}
-.rightcolumn {
-  float: right;
-  width: 25%;
-}
+
 .card{
   background-color: #F4F2F0;
   color: #393738;
@@ -147,17 +136,21 @@ body {
   padding: 25px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+/*---------------------------------------------- Blog ---------------------------------------*/
+
 .blog h1{
 text-align: center;
 }
+/*---------------------------------------------- Map ---------------------------------------*/
+
 .map{
   display: block;
   position: absolute;
-  top: 10;
-  left: 10;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
-  flex: 0;
+  flex: 1;
 }
 #read-world-map{
 path:hover, circle:hover {
@@ -166,8 +159,11 @@ path:hover, circle:hover {
   stroke-linejoin: round;
   fill: #8ed4c3 !important;
   cursor: pointer;
+  transition: .3s background-color;
 }
 }
+/*---------------------------------------------- Responsive ---------------------------------------*/
+
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {   
     width: 100%;
@@ -188,11 +184,9 @@ path:hover, circle:hover {
     margin-right: -4px;
 	}
 }
-.note{
-  margin: 0;
-  padding: 0;
-  background: #FDF8F2;
-}
+
+/*---------------------------------------------- Containers ---------------------------------------*/
+
 .about-container{
 	display: flex;
 	flex-direction: row;
@@ -212,25 +206,14 @@ path:hover, circle:hover {
 	justify-content: space-between;
 	flex-direction: column;
 	  flex-basis: 100%;
-
-
 }
-.skills{
-  text-align: left;
-  padding-top: 10px;
-  padding-bottom: 5px;
-}
-.math{width: 95%; background-color: #8AA794;}
-.python{width: 85%; background-color: #8AA794;}
-.data-struct{width: 75%; background-color: #8AA794;}
-.html{width: 50%; background-color: #8AA794;}
 
-.languages{
-  text-align: left;
-  padding-top: 10px;
-  padding-bottom: 5px;
+.leftcolumn {   
+  float: left;
+  width: 75%;
 }
-.english{width: 100%; background-color: #8AA794;}
-.spanish{width: 60%; background-color: #8AA794;}
-
+.rightcolumn {
+  float: right;
+  width: 25%;
+}
 
