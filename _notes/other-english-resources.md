@@ -4,10 +4,8 @@ layout: note
 subject: english
 ---
 --- 
-<p align="center" font size="36">
-“Substitute ‘damn’ every time you’re inclined to write ‘very’; <br/>your editor will delete it, and the writing will be just as it should be.” ~Mark Twain
-</p>
-## Essay Outline Tools
+
+## Essay Outline
 > [Outline Maker](http://www.crlsresearchguide.org/NewOutlineMaker/NewOutlineMakerInput.aspx)
 
 ## Citation Tools 
