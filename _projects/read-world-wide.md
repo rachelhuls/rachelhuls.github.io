@@ -3,9 +3,11 @@ title: World Wide Reading
 ---
 
 Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/thelist/)
-
-{%include world.svg%}
-
+<div class="map">
+  <div id="read-world-map">
+    {%include world.svg%}
+  </div>
+</div>
 - [ ] Afghanistan: The Kite Runner by Khaled Hosseini
 - [ ] Albania
 - [ ] Algeria
