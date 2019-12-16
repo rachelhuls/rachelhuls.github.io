@@ -3,7 +3,6 @@ title: Statistics
 category: math
 layout: note
 ---
-# Statistics
 
 Topics from an introductory statistics course. The professor described his course as a social science class with some algebra and a calculator. This is not a proof or mathematicsheavy approach. This course focused on how and when to apply different methods of statistics.  
 
@@ -64,6 +63,8 @@ Topics from an introductory statistics course. The professor described his cours
     - Median
     - Q3
     - Maximum
+    
+
 --- 
 ### Probability
 
@@ -98,6 +99,8 @@ Topics from an introductory statistics course. The professor described his cours
         - Conditions for Normal or Approximately Normal Distribution
             -  Central Limit Theorem
         - Normal Probability Plots
+        
+
 ---         
 ### Confidence Intervals
   - Definitions
@@ -120,6 +123,8 @@ Topics from an introductory statistics course. The professor described his cours
     - Variance 
         - Program Int1SD (does not come with calculator)    
         - Intro to Chi Squared Distribution
+
+
 --- 
 ### Hypothesis Testing
   - Definitions
@@ -174,6 +179,8 @@ Topics from an introductory statistics course. The professor described his cours
         - Contingency Analysis
         - LinReg T Test
         - Anova
+
+
 --- 
 
 
