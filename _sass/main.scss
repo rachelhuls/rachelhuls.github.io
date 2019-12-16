@@ -58,6 +58,10 @@ body {
   display: table;
   clear: both;
 }
+svg{
+  width: 100%;
+  height: auto;
+}
 /*---------------------------------------------- Navigation ---------------------------------------*/
 .nav {
   position: sticky;
