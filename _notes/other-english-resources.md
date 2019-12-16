@@ -3,7 +3,6 @@ title: Other Resources
 layout: note
 subject: english
 ---
-
 --- 
 # Writing Advice
 > “Substitute ‘**damn**’ every time you’re inclined to write ‘**very**’; your editor will delete it, and the writing will be just as it should be.”  **~Mark Twain**
