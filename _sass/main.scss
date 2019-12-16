@@ -157,13 +157,14 @@ text-align: center;
   left: 10;
   width: 100%;
   height: 100%;
+  flex: 0;
 }
 #read-world-map{
 path:hover, circle:hover {
-  stroke: #002868 !important;
+  stroke: #8ed4c3 !important;
   stroke-width:2px;
   stroke-linejoin: round;
-  fill: #002868 !important;
+  fill: #8ed4c3 !important;
   cursor: pointer;
 }
 }
