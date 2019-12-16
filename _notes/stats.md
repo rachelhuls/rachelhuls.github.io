@@ -11,7 +11,9 @@ Topics from an introductory statistics course. The professor described his cours
   - Descriptive Statistics
   - Probability
   - Confidence Intervals
-  - Hypothesis Testing   
+  - Hypothesis Testing
+  
+  
 ---
 
 ### Descriptive Statistics
