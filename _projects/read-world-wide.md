@@ -13,17 +13,16 @@ Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/th
   </div>
    
 --- 
-
-  ## Read    
-  #### United States
-  > Bless Me, Ultima by Rudolfo Anaya
+## Read    
+#### United States
+> Bless Me, Ultima by Rudolfo Anaya
    
-  #### England
-  > Frankenstein by Mary Shelley
+#### England
+> Frankenstein by Mary Shelley
   
-  #### Nigeria
-  > Things Fall Apart by Chinua Achebe
+#### Nigeria
+> Things Fall Apart by Chinua Achebe
   
-  ## Currently Reading     
-  #### Cuba
-  > Havana Real by Yoani Sánchez
+## Currently Reading     
+#### Cuba
+> Havana Real by Yoani Sánchez
