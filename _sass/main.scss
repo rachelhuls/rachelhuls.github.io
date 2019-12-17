@@ -162,10 +162,13 @@ text-align: center;
   top: 0px;
   left: 0px;
   z-index: 1;
-  background-color: #ffffff;
+  fill: orange;
   border: 2px solid #BF0A30;
   border-radius: 5px;
   padding: 5px;
+}
+#CU, #GB, #NG{
+  fill: orange; 
 }
 
 /*---------------------------------------------- Responsive ---------------------------------------*/
