@@ -14,7 +14,7 @@ Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/th
    
 --- 
 
-  ## Read
+  ## Read    
   #### United States
   > Bless Me, Ultima by Rudolfo Anaya
    
@@ -24,6 +24,6 @@ Inspiration: [A Year of Reading The World](https://ayearofreadingtheworld.com/th
   #### Nigeria
   > Things Fall Apart by Chinua Achebe
   
-  ## Currently Reading
+  ## Currently Reading     
   #### Cuba
   > Havana Real by Yoani Sánchez
