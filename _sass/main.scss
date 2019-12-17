@@ -155,20 +155,9 @@ text-align: center;
   		transition: .3s fill;
 	}
 }
-#US {
-  description: "book";
-  display: none;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  z-index: 1;
-  fill: orange;
-  border: 2px solid #BF0A30;
-  border-radius: 5px;
-  padding: 5px;
-}
-#CU, #GB, #NG{
-  fill: orange; 
+
+#US, #CU, #GB, #NG{
+  fill: orange !important; 
 }
 
 /*---------------------------------------------- Responsive ---------------------------------------*/
