@@ -1,7 +1,7 @@
 ---
 title: Writing Aids and Editors
-subject: english
-layout: note
+category: english
+tags:[resource, writing, editor]
 ---
 
 --- 
