@@ -6,5 +6,11 @@
   link: /projects.html
 - name: Blog
   link: /blog.html
+- name: Notebook 
+  link: /notebook.html
+- name: Categories
+  link: /categories.html
+- name: Tags
+  link: /tags.html
 - name: About
   link: /about.html
