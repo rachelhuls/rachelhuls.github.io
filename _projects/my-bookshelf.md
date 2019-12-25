@@ -33,6 +33,7 @@ title: My Bookshelf
 * How To Read Literature Like a Professor by Foster
 * Hollow City by Riggs
 * The Percy Jackson Series by Riordan 
+* Narrative of the Captivity of WWilliam Biggs Among the Kickapoo Indians in Illinois in 1788 by William Biggs
 
 ## Future Reads
 * A Manual For Living by Epictetus
