@@ -6,9 +6,7 @@ email: rh@hulsfamily.com
 profile_pic: meFenceSquare.PNG
 
 collections:
-  categories:
-    output: true
-  projects:
+  category:
     output: true
   posts: 
     output: true
@@ -26,9 +24,9 @@ defaults:
       layout: "note"
   - scope:
       path: ""
-      type: "projects"
+      type: category
     values:
-      layout: "project"
+      layout: "category"
   - scope:
       path: ""
     values:
