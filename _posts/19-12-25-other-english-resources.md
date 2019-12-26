@@ -2,6 +2,7 @@
 title: Other Resources
 layout: note
 subject: english
+tags: [notes,resources]
 ---
 --- 
 
