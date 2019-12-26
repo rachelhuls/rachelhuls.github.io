@@ -63,7 +63,6 @@ social_links:
   #RSS: /feed.xml
   email: rh@hulsfamily.com
   
-permalink: 
-  /:categories/:title/
+permalink: /:categories/:title/
   /:tags/:title/
 
