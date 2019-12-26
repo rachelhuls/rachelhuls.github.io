@@ -1,6 +1,7 @@
 ---
 title: Statistics
 category: math
+tags: [stats, notes]
 layout: note
 ---
 
