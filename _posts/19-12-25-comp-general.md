@@ -1,6 +1,8 @@
 ---
 title: More About Computers
-subject: comp sci
+subject: compsci
+category: compsci
+tags: [resources,notes,the-shell,internet,http,svg]
 layout: note
 ---
 
