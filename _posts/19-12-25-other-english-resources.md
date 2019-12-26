@@ -1,7 +1,7 @@
 ---
 title: Other Resources
 layout: note
-subject: english
+category: english
 tags: [notes,resources]
 ---
 --- 
