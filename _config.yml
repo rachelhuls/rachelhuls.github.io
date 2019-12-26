@@ -8,6 +8,8 @@ profile_pic: meFenceSquare.PNG
 collections:
   category:
     output: true
+  tags:
+    output: true
   posts: 
     output: true
 
@@ -29,6 +31,11 @@ defaults:
       layout: "category"
   - scope:
       path: ""
+      type: tags
+    values:
+      layout: "tags"
+  - scope:
+      path: ""
     values:
       layout: "default"
 
@@ -37,6 +44,10 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
+- title: Categories
+  url: /categories/
+- title: Tags
+  url: /tags/
 - title: About
   url: /about/
   
