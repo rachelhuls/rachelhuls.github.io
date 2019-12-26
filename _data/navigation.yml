@@ -1,10 +1,10 @@
 - name: Home
   link: /
 - name: Blog
-  link: /blog.html
+  link: /blog/
 - name: Categories
   link: /categories/
 - name: Tags
   link: /tags/
 - name: About
-  link: /about.html
+  link: /about/
