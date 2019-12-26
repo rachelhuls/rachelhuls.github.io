@@ -51,3 +51,6 @@ social_links:
   #link: https://sitename.com
   #RSS: /feed.xml
   email: rh@hulsfamily.com
+  
+permalink: /:categories/:title/
+
