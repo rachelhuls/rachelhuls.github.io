@@ -5,7 +5,11 @@ layout: default
 
 <p>
   {{ page.date | date_to_string }}
+  </br>
   {{page.categories | capitalize | join: ', '}}
+  </br>
+  {{page.tags | capitalize | join: ', '}}
+
 
   <!--{% assign author = site.authors | where: 'short_name', page.author | first %}
   {% if author %}
