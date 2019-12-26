@@ -31,7 +31,7 @@ defaults:
       layout: "category"
   - scope:
       path: ""
-      type: tags
+      type: "tags"
     values:
       layout: "tags"
   - scope:
