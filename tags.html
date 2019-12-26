@@ -3,10 +3,10 @@ layout: page
 permalink: /tags/
 title: Tags
 ---
-<div id="tags">
+<div id="archive">
 {% for tag in site.tags %}
   <div class="archive-group">
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
     <div id="#{{ tag_name | slugify}}"></div>
     <p><hr></p>
 
@@ -20,3 +20,6 @@ title: Tags
   </div>
 {% endfor %}
 </div>
+
+
+  
