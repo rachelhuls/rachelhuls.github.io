@@ -2,6 +2,7 @@
 title: World Wide Reading
 category: literature
 tags: [reading,books,map,literature,interactive,project]
+layout: post
 ---
 A project of literature and web design. In the future, I will create a responsive map. Until then, countries and corresponding books are at the bottom of the page.    
   
