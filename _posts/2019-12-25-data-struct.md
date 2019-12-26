@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms
 category: compsci
 tags: [data-structures,algorithms,notes,resources]
-layout: note
+layout: post
 ---
 ## Topics
  * Big O Notation
