@@ -1,6 +1,7 @@
 ---
 title: Data Structures and Algorithms
 category: compsci
+tags: [data-structures,algorithms,notes]
 layout: note
 ---
 ## Topics
