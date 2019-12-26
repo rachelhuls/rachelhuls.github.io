@@ -1,6 +1,7 @@
 ---
 title: My Bookshelf
 category: literature
+layout: post
 tags: [reading, books]
 ---
 
