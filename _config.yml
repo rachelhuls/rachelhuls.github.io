@@ -64,5 +64,5 @@ social_links:
   email: rh@hulsfamily.com
   
 permalink: /:categories/:title/
-permalink: /:tags/:title/
+  /:tags/:title/
 
