@@ -3,6 +3,8 @@ layout: page
 permalink: /tags/
 title: Tags
 ---
+{% assign items_grouped = site.posts | group_by: 'tags' %}
+{{items_grouped}}
 
 
 <div id="tags">
