@@ -1,6 +1,7 @@
 ---
 title: Chemistry
 category: science
+tags: [notes,chem]
 layout: note
 ---
 ## Topics
