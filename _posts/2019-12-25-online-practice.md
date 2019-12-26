@@ -2,7 +2,7 @@
 title: Online Practice
 category: compsci
 tags: [resources,khan-academy,hackerrank,replit,free-code-camp,code-pen,practice]
-layout: note
+layout: post
 ---
 
 ### Resources
