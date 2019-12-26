@@ -1,7 +1,7 @@
 ---
 title: Programming Languages
 category: compsci
-tags: [resources,programming,language,compsci]
+tags: [resources,notes,programming,language,compsci]
 layout: note
 ---
 
