@@ -1,5 +1,7 @@
 ---
 title: My Bookshelf
+category: literature
+tags: [reading, books]
 ---
 
 ## Read
