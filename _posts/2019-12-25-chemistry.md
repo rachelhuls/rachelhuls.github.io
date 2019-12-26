@@ -2,7 +2,7 @@
 title: Chemistry
 category: science
 tags: [notes,chem]
-layout: note
+layout: post
 ---
 ## Topics
  * Balanced Chemical Reactions
