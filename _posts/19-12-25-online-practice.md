@@ -1,6 +1,7 @@
 ---
 title: Online Practice
-subject: comp sci
+category: compsci
+tags: [resources,khan-academy,hackerrank,replit,free-code-camp,code-pen,practice]
 layout: note
 ---
 
