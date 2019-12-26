@@ -5,9 +5,7 @@ layout: default
 
 <p>
   {{ page.date | date_to_string }}
-  </br>
-  {{page.tags | capitalize | join: ', '}}
-<div class="post-categories">
+<div class="post-categories-and-tags">
   {% if post %}
     {% assign categories = post.categories %}
     {% assign tags = post.tags %}
