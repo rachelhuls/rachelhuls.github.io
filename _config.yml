@@ -6,7 +6,7 @@ email: rh@hulsfamily.com
 profile_pic: meFenceSquare.PNG
 
 collections:
-  notes:
+  categories:
     output: true
   projects:
     output: true
@@ -37,10 +37,6 @@ defaults:
 navigation_header:
 - title: Home
   url: /
-- title: Notes
-  url: /notes/
-- title: Projects
-  url: /projects/
 - title: Blog
   url: /blog/
 - title: About
