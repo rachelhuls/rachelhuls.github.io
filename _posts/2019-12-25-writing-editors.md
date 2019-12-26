@@ -2,6 +2,7 @@
 title: Writing Aids and Editors
 category: english
 tags: [resource, writing, editor, notes]
+layout: post
 ---
 
 --- 
