@@ -1,6 +1,6 @@
 ---
 title: Other Resources
-layout: note
+layout: post
 category: english
 tags: [notes,resources]
 ---
