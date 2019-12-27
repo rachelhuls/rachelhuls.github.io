@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Rachel Huls"
-  avatar : "/assets/images/meFenceSquare.PNG"
+  avatar : "/static/img/meFenceSquare.PNG"
   bio    : "Explore. Experiment. Record the experience."
   links:
     - label: "Website"
