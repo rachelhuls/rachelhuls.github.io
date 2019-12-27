@@ -1,5 +1,5 @@
 ---
-title: World Wide Reading
+title: "World Wide Reading"
 category: 
   - literature
 tags: [reading,books,map,literature,interactive,project]
