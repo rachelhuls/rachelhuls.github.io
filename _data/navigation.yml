@@ -1,10 +1,12 @@
-- name: "Home"
-  link: /
-- name: "Blog"
-  link: /blog/
-- name: "Categories"
-  link: /categories/
-- name: "Tags"
-  link: /tags/
-- name: "About"
-  link: /about/
+main:
+  - title: "Home"
+    url: /
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+
