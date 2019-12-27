@@ -11,7 +11,7 @@ collections:
     permalink: /:categories/:title/
   tags:
     output: true
-    permalink: /tags/:title/
+    permalink: /:tags/:title/
   posts: 
     output: true
     
