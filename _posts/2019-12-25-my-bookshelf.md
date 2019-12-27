@@ -1,8 +1,10 @@
 ---
-title: My Bookshelf
-category: literature
-layout: post
-tags: [reading, books]
+title: "My Bookshelf"
+category: 
+  - literature
+tags: 
+  - reading
+  - books
 ---
 
 ## Read
