@@ -1,36 +1,7 @@
 ---
-title: Home
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+author_profile: true
 ---
-<div class="row">
-  <div class="leftcolumn">
-    <ul>
-	  
-    {% for post in site.posts %}
-      <div class="card">
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt }}</p>
-      </div>
-    {% endfor %}
-    </ul>
-  </div>
-  <div class="rightcolumn">
-    <div class="card">
-      <h2>A Quick Intro</h2>
-      <div class="profile-pic">
-        <img class="img-circle" width="60%"  src="{{ site.url }}static/img/{{ site.profile_pic }}" alt="Profile Image">
-      </div>
-      <p>I'm curious... when is the last time you followed your desire to explore and understand the world around you? 
-	    I'm a college student of mathematics living in the midwest. I use this site to document what I learn as I follow my curiosity. </p>
-    </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <div class="fakeimg"><p>Image</p></div>
-      <div class="fakeimg"><p>Image</p></div>
-      <div class="fakeimg"><p>Image</p></div>
-    </div>
-    <div class="card">
-      <h3>Follow Me</h3>
-      <p>Some text..</p>
-    </div>
-  </div>
-</div>
