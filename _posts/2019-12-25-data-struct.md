@@ -1,8 +1,12 @@
 ---
-title: Data Structures and Algorithms
-category: compsci
-tags: [data-structures,algorithms,notes,resources]
-layout: post
+title: "Data Structures and Algorithms"
+category: 
+  - compsci
+tags: 
+  - data-structures
+  - algorithms
+  - notes
+  - resources
 ---
 ## Topics
  * Big O Notation
