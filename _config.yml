@@ -60,7 +60,7 @@ author:
   bio    : "Explore. Experiment. Record the experience."
   links:
     - label: "E-mail"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rachel.huls@icloud.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +72,7 @@ author:
 footer:
   links:
     - label: "E-mail"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rachel.huls@icloud.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
