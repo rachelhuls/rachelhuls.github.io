@@ -1,9 +1,14 @@
 ---
-title: More About Computers
-subject: compsci
-category: compsci
-tags: [resources,notes,the-shell,internet,http,svg]
-layout: post
+title: "More About Computers"
+category: 
+  - compsci
+tags: 
+  - resources
+  - notes
+  - the-shell
+  - internet
+  - http
+  - svg
 ---
 
 ### Resources
