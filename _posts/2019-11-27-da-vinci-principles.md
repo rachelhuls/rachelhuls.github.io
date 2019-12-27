@@ -1,6 +1,10 @@
 ---
-title: Seven Principles of da Vinci
-tags: daVinci
+title: "Seven Principles of da Vinci"
+category: 
+  - literature
+tags: 
+  - daVinci
+  - philosophy
 ---
 I recently read a portion of *How to Think Like Leonardo da Vinci* by Michael J. Gelb. He's compiled the philosophy 
 behind da Vinci into 7 ideas that we can implement every day.
