@@ -59,6 +59,9 @@ author:
   avatar : "/static/img/meFenceSquare.PNG"
   bio    : "Explore. Experiment. Record the experience."
   links:
+     - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rachel.huls@icloud.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rachelhuls"
@@ -69,7 +72,7 @@ author:
 footer:
   links:
     - label: "E-mail"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rachel.huls@icloud.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
