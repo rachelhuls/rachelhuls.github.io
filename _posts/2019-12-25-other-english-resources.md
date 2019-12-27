@@ -1,8 +1,10 @@
 ---
-title: Other Resources
-layout: post
-category: english
-tags: [notes,resources]
+title: "Other Resources"
+category: 
+  - english
+tags: 
+  - notes
+  - resources
 ---
 --- 
 
