@@ -6,13 +6,15 @@ tags:
   - art_movement
   - gothic
 ---
+Also includes Italo-Byzantine
 
-# Characteristics - Italo-Byzantine 
+# Characteristics 
 * flat gold backgrounds 
 * strongly outline figures pressed against picture frame
 * narrative images eliminate need for depth
+* elongated figures
+* hierarchy of scale (express importance)
 
-Cha
 
 
 ## The Cities & Painters
