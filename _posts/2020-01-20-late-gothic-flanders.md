@@ -9,6 +9,18 @@ tags:
 
 ( 1425 - 1500 ) 
 
+# Characteristics
+
+* increase in patronage from wealthy (to ensure their place in heaven, usary)
+* emotion and individual faces
+* figures seen from all angles
+* use of modeling and space ( chirascuro )
+* forms of body shown under drapery
+* interest in anatomy and proportion ( classical revived )
+* earthly settings
+* portable art (ex. tempera on small wooden panels instead of altarpieces and frescos)
+
+
 ## Painters
 * Campin (workshop)
   * Annunciation Triptych - Merode Altarpiece
