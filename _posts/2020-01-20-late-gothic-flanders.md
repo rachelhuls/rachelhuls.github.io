@@ -15,7 +15,7 @@ also known as Flemish Art
 * Bruges 
 * Ghent
 * Brussels
-Tournai
+* Tournai
 ### Low Countries
 * Netherlands
 * Northern Germany
