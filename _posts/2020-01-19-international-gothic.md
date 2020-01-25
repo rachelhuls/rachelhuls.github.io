@@ -22,7 +22,15 @@ tags:
 
 * Gentile da Fabriano
 * Limbourg Brothers
+  * 3 brothers: Paul, Jean, Herman 
   * painted manuscripts / small devotional books
+  * Duke of Berry: their patron/major patron of the arts 
+  * Belles Hueres 1409
+    * Book of Hours - personal prayar book
+    * only complete work from them?
+  * Tres Riches Hueres 
+    * best example of Gothic Illumination 
+    * Calendar pages / personal prayar book
   
 # Paintings
 
@@ -81,9 +89,21 @@ Why is this not considered the early renaissance?
 
 
 
+
+
 ![Limbourg Bros - January](https://cdn.kastatic.org/ka-perseus-images/4ca24e7345a8194c4674a075e7df515405c34206.jpg "Limbourg Brothers - January")
 #### January, Les Tres Riches Hueres du Duc de Berry - Limbourg Brothers, Ink on Vellum
+* Duke recieving gifts at the table 
+* Heraldic Motifs of Duke
+  * gold fleur de lys located in blue circles above Duke
+  * tapestries with scenes of knights ready for battle
+
 
 
 ![Limbourg Bros - February](https://cdn.kastatic.org/ka-perseus-images/15b41b93ec7d770af219b2571b074f63970ef051.jpg "Limbourg Brothers - February")
 #### February, Les Tres Riches Hueres du Duc de Berry - Limbourg Brothers, Ink on Vellum
+* town is covered in snow 
+* peasant and donkey travel to town
+* peasant chops wood, another heads to shelter
+* farm and house where people try to warm their feet
+* nudity in medieval books was not unusual but not prolific 
