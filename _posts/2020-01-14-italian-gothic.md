@@ -46,11 +46,8 @@ tags:
 
 ![Giotto Arena Chapel Lamentation](https://upload.wikimedia.org/wikipedia/commons/3/3a/Giotto_-_Scrovegni_-_-36-_-_Lamentation_%28The_Mourning_of_Christ%29_adj.jpg "Giotto - Arena Chapel, Lamentation")
 
-![Duccio Virgin and Child in Majesty](https://upload.wikimedia.org/wikipedia/commons/f/f0/Duccio_maesta1021.jpg "Duccio - Virgin and Child in Majesty / Maesta Altarpiece
-")
+![Duccio Virgin and Child in Majesty](https://upload.wikimedia.org/wikipedia/commons/f/f0/Duccio_maesta1021.jpg "Duccio - Virgin and Child in Majesty / Maesta Altarpiece")
 
 ![Ambrogio Lorenzetti Palazzo Pubblico Frescos ](https://i.pinimg.com/originals/f8/dd/ba/f8ddba59493898ca1f94c7dcae37e7eb.jpg "Ambrogio Lorenzetti - Palazzo Pubblico Frescos - Allegory and Effects of Good and Bad Government")
 
-
-#### Simone Martini
 ![Simone Martini Annunciation ](https://images.uffizi.it/production/attachments/1576847910908083-02-simone-martini.jpg?ixlib=rails-2.1.3&w=1200&h=800&fit=clip&crop=center&fm=pjpg&auto=compress "Simone Martini - Annunciation ")
