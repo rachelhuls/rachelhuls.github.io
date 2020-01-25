@@ -20,9 +20,9 @@ tags:
 * Sienna
   * [Duccio](#Duccio)
     * Virgin and Child in Majesty - Maesta Altarpiece
-  * [Ambrogio Lorenzetti](#Ambrogio Lorenzetti) 
+  * [Ambrogio Lorenzetti](#Ambrogio) 
     * Palazzo Pubblico Frescos - Allegory and Effects of Good and Bad Government
-  * [Simone Martini](#Simone Martini)
+  * [Simone Martini](#Simone)
     * Annunciation
     
 ## The Bubonic Plague
