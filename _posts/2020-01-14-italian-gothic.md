@@ -22,7 +22,7 @@ tags:
     * Virgin and Child in Majesty - Maesta Altarpiece
   * [Ambrogio Lorenzetti](#Ambrogio-Lorenzetti) 
     * Palazzo Pubblico Frescos - Allegory and Effects of Good and Bad Government
-  * [Simone Martini](#Simone_Martini)
+  * [Simone Martini](#Simone-Martini)
     * Annunciation
     
 ## The Bubonic Plague
