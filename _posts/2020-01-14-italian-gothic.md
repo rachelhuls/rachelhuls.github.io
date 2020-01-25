@@ -49,7 +49,7 @@ tags:
 ![Giotto Arena Chapel Lamentation](https://upload.wikimedia.org/wikipedia/commons/3/3a/Giotto_-_Scrovegni_-_-36-_-_Lamentation_%28The_Mourning_of_Christ%29_adj.jpg "Giotto - Arena Chapel, Lamentation")
 
 #### Duccio
-![Duccio Virgin and Child in Majesty](https://upload.wikimedia.org/wikipedia/commons/3/3a/Giotto_-_Scrovegni_-_-36-_-_Lamentation_%28The_Mourning_of_Christ%29_adj.jpg "Duccio - Virgin and Child in Majesty / Maesta Altarpiece
+![Duccio Virgin and Child in Majesty](https://upload.wikimedia.org/wikipedia/commons/f/f0/Duccio_maesta1021.jpg "Duccio - Virgin and Child in Majesty / Maesta Altarpiece
 ")
 
 #### Ambrogio Lorenzetti
