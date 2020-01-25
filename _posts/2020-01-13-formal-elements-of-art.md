@@ -50,10 +50,21 @@ tags:
   * Ideas and Meaning
   * Iconography
 * Style 
-  * Representational, Abstract, Nonrepresentational
+  * Representational, Abstract, Nonrepresentational, Nonobjective
+    * representational = looks like something from natural world
+    * abstract = roots in natural world but abstracted from it
+    * nonrepresentational = abstract?
+    * nonobjective = one step beyond abstraction, no reference to natural world (ex. Jackson Polluck)
   * Linear vs painterly
+    * linear = can see edges and lines, crisp/sharp, more rational
+    * painterly = loose, more emotional
   * Realistic, Naturalistic, Idealized
+    * realistic = like real life
+    * naturalistic = looser definition of realistic, natural with liberties
+    * idealistic = better than real life, perfection
   * Expressionistic
+    * for emotional impact
+    * done by distorting color, form, size, etc. 
   
 ## Medium
 
