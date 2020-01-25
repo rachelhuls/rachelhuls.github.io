@@ -10,19 +10,19 @@ tags:
 ## The Cities & Painters
 
 * Florence
-  * [Cimabue](#Cimabue)
+  * Cimabue
     * Madonna and Child Enthroned
-  * [Giotto](#Giotto)
+  * Giotto
     * Madonna and Child Enthroned
     * Arena Chapel
     * Lamentation, Arena Chapel
     
 * Sienna
-  * [Duccio](#Duccio)
+  * Duccio
     * Virgin and Child in Majesty - Maesta Altarpiece
-  * [Ambrogio Lorenzetti](#Ambrogio-Lorenzetti) 
+  * Ambrogio Lorenzetti
     * Palazzo Pubblico Frescos - Allegory and Effects of Good and Bad Government
-  * [Simone Martini](#Simone-Martini)
+  * Simone Martini
     * Annunciation
     
 ## The Bubonic Plague
@@ -30,7 +30,7 @@ tags:
 * aka the black death
 * killed 1/4 to 1/2 the population
 * stemmed from and was spread by trade
-##### The Effects
+#### The Effects
 * Some became more pious to get on God's good side
 * Some believed those affected by the plague were being punished for their sins
 * Some became rich with the new surplus of land 
@@ -38,25 +38,17 @@ tags:
 
 
 ## Paintings
-#### Cimabue
-###### Madonna and Child Enthroned - Cimabue
 ![Cimabue Madonna and Child Enthroned](https://smarthistory.org/wp-content/uploads/2019/03/CimabueTrinitaCroppedSm.jpg "Cimabue - Madonna and Child Enthroned")
 
-#### Giotto
-###### Madonna and Child Enthroned - Giotto
 ![Giotto Madonna and Child Enthroned](http://www.travelingintuscany.com/images/art/giotto/ognissantimadonna700.jpg "Giotto - Madonna and Child Enthroned")
-
-###### Arena Chapel
 
 ![Giotto Arena Chapel](https://sites.google.com/site/adairarthistory/_/rsrc/1487600272497/iii-early-europe-and-colonial-americas/63-arena-scrovegni-chapel-including-lamentation/114200.jpg "Giotto - Arena Chapel")
 
 ![Giotto Arena Chapel Lamentation](https://upload.wikimedia.org/wikipedia/commons/3/3a/Giotto_-_Scrovegni_-_-36-_-_Lamentation_%28The_Mourning_of_Christ%29_adj.jpg "Giotto - Arena Chapel, Lamentation")
 
-#### Duccio
 ![Duccio Virgin and Child in Majesty](https://upload.wikimedia.org/wikipedia/commons/f/f0/Duccio_maesta1021.jpg "Duccio - Virgin and Child in Majesty / Maesta Altarpiece
 ")
 
-#### Ambrogio Lorenzetti
 ![Ambrogio Lorenzetti Palazzo Pubblico Frescos ](https://i.pinimg.com/originals/f8/dd/ba/f8ddba59493898ca1f94c7dcae37e7eb.jpg "Ambrogio Lorenzetti - Palazzo Pubblico Frescos - Allegory and Effects of Good and Bad Government")
 
 
