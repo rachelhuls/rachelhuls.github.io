@@ -10,8 +10,8 @@ tags:
 ## The Cities & Painters
 
 * Florence
-  * Cimabue
-    * Madonna and Child Enthroned
+  * [Cimabue](#Cimabue)
+    * Madonna and Child Enthroned 
   * Giotto
     * Madonna and Child Enthroned
     * Arena Chapel
