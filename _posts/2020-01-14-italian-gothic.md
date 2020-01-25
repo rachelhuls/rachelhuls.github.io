@@ -11,18 +11,18 @@ tags:
 
 * Florence
   * [Cimabue](#Cimabue)
-    * [Madonna and Child Enthroned](#Madonna and Child Enthroned - Cimabue)
+    * Madonna and Child Enthroned
   * [Giotto](#Giotto)
-    * [Madonna and Child Enthroned](#Madonna and Child Enthroned - Giotto)
+    * Madonna and Child Enthroned
     * Arena Chapel
     * Lamentation, Arena Chapel
     
 * Sienna
-  * Duccio
+  * [Duccio](#Duccio)
     * Virgin and Child in Majesty - Maesta Altarpiece
-  * Ambrogio Lorenzetti 
+  * [Ambrogio Lorenzetti](#Ambrogio Lorenzetti) 
     * Palazzo Pubblico Frescos - Allegory and Effects of Good and Bad Government
-  * Simone Martini
+  * [Simone Martini](#Simone Martini)
     * Annunciation
     
 ## The Bubonic Plague
