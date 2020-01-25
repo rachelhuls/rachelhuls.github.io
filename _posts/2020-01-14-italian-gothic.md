@@ -11,9 +11,9 @@ tags:
 
 * Florence
   * [Cimabue](#Cimabue)
-    * Madonna and Child Enthroned 
-  * Giotto
-    * Madonna and Child Enthroned
+    * [Madonna and Child Enthroned](#Madonna and Child Enthroned - Cimabue)
+  * [Giotto](#Giotto)
+    * [Madonna and Child Enthroned](#Madonna and Child Enthroned - Giotto)
     * Arena Chapel
     * Lamentation, Arena Chapel
     
@@ -39,10 +39,14 @@ tags:
 
 ## Paintings
 #### Cimabue
+###### Madonna and Child Enthroned - Cimabue
 ![Cimabue Madonna and Child Enthroned](https://smarthistory.org/wp-content/uploads/2019/03/CimabueTrinitaCroppedSm.jpg "Cimabue - Madonna and Child Enthroned")
 
 #### Giotto
+###### Madonna and Child Enthroned - Giotto
 ![Giotto Madonna and Child Enthroned](http://www.travelingintuscany.com/images/art/giotto/ognissantimadonna700.jpg "Giotto - Madonna and Child Enthroned")
+
+###### Arena Chapel
 
 ![Giotto Arena Chapel](https://sites.google.com/site/adairarthistory/_/rsrc/1487600272497/iii-early-europe-and-colonial-americas/63-arena-scrovegni-chapel-including-lamentation/114200.jpg "Giotto - Arena Chapel")
 
