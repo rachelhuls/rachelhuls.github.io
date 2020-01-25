@@ -7,6 +7,14 @@ tags:
   - gothic
 ---
 
+# Characteristics - Italo-Byzantine 
+* flat gold backgrounds 
+* strongly outline figures pressed against picture frame
+* narrative images eliminate need for depth
+
+Cha
+
+
 ## The Cities & Painters
 
 * Florence
