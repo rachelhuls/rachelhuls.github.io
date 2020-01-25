@@ -6,9 +6,15 @@ tags:
   - art_movement
   - gothic
 ---
-## International Style - The Blend
+# Characteristics
 
 * blends Northern and Southern European Traditions
+* emphasis on decorative patterns (ex. clothing, nature, trees, etc.)
+* gold leaf popular in manuscripts
+* elegant and elongated figures
+* highly detailed images
+* interest in accurate portrayal of plants and animals
+
 
 ## Painters
 
