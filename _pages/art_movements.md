@@ -1,6 +1,9 @@
 ---
+title: "Art Movements"
 layout: collections
 permalink: /art_movements/
+collection: art_movements
+entries_layout: grid
 ---
 
 <div class="row">
