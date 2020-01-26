@@ -1,5 +1,7 @@
 ---
 title: "International Gothic"
+layout: collection
+excerpt: "Overview International Style Gothic"
 ---
 
-International Style
+text goes here
