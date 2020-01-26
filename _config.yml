@@ -118,4 +118,4 @@ tag_archive:
 collections: 
   art_movements: 
     output: true
-    permalink: /art_movements/:path
+    permalink: /art_movements/:path/
