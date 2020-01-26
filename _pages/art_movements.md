@@ -1,7 +1,7 @@
 ---
 title: "Art Movements"
-layout: collections
 permalink: /art_movements/
+layout: collection
 collection: art_movements
 entries_layout: grid
 ---
@@ -26,3 +26,4 @@ entries_layout: grid
   {% endfor %}
 
 </div>
+
