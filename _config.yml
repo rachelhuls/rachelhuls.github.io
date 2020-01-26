@@ -107,6 +107,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+      defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
 category_archive:
   type: liquid
@@ -115,7 +125,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
-collections: 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   art_movements: 
     output: true
     permalink: /art_movements/:path/
