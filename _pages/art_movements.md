@@ -6,7 +6,7 @@ collection: art_movements
 entries_layout: grid
 classes: wide
 ---
-
+<!--
 <div class="row">
 
   {% for movement in site.art_movements %}
@@ -28,3 +28,4 @@ classes: wide
 
 </div>
 
+-->
