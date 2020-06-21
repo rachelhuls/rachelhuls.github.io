@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rachel Huls
-email: rachel.huls@icloud.com
+email: rh@hulsfamily.com
 description: Future mathematician exploring the world and recording my experiences. I'm here to learn. 
 #twitter_username: username
 github_username: rachelhuls
