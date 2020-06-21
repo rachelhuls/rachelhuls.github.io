@@ -5,4 +5,3 @@ layout: page
 classes: wide
 ---
 
-#Testing
