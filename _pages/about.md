@@ -3,4 +3,4 @@ title: About
 permalink: /about/
 ---
 
-Well, hello there! I'm Rachel and this is my sporadically updated website. I'm a lover of mathematics and dogs, who hopes to improve the world a little bit each day. 
+I'm a lover of mathematics and dogs, and I strive to learn something new each day. I recently finished my undergraduate studies in mathematics and graduated summa cum laude with a 4.0 GPA. 

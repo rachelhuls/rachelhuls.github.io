@@ -1,10 +1,12 @@
 ---
 title: "Formal Elements"
-category: 
+category:
   - art_history
 tags:
   - art_history
   - formal_elements
+published: false
+
 ---
 
 ## The 8 Formal Elements
@@ -21,13 +23,13 @@ tags:
 * Value
   * modeling
 * Color
-  * hue 
+  * hue
   * value
-  * intensity 
+  * intensity
 * Texture
   * actual
   * implied
-* Space 
+* Space
   * picture plane
   * overlapping
   * relative size
@@ -41,15 +43,15 @@ tags:
 
 * Composition
   * emphasis/focal point
-  * balance ( symmetry vs. asymmetry) 
+  * balance ( symmetry vs. asymmetry)
   * scale and proportion
-  * rhythm and repetition 
+  * rhythm and repetition
   * unity and variety
 * Subject Matter
-* Content 
+* Content
   * Ideas and Meaning
   * Iconography
-* Style 
+* Style
   * Representational, Abstract, Nonrepresentational, Nonobjective
     * representational = looks like something from natural world
     * abstract = roots in natural world but abstracted from it
@@ -64,8 +66,8 @@ tags:
     * idealistic = better than real life, perfection
   * Expressionistic
     * for emotional impact
-    * done by distorting color, form, size, etc. 
-  
+    * done by distorting color, form, size, etc.
+
 ## Medium
 
 * the materials used to create the artwork
@@ -74,14 +76,14 @@ tags:
   * painting (tempera, fresco, oil, ink, manuscript illumination)
   * photography
 * 3D
-  * sculpture (stone, wood, metal, mixed media) 
+  * sculpture (stone, wood, metal, mixed media)
   * architecture
 * 4D
   * happenings
   * performance art
   * video/digital/projections
-  
-  
+
+
 # Period / Style / Movement
 
 # Historical Background

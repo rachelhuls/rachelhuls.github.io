@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Rachel Huls
 email: rh@hulsfamily.com
-description: Future mathematician exploring the world and recording my experiences. I'm here to learn. 
+description: Mathematician exploring the world and recording my experiences. I'm here to learn.
 #twitter_username: username
 github_username: rachelhuls
 minimal_mistakes_skin: default
@@ -28,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/Chicago	
+timezone: America/Chicago
 include:
   - _pages
 
@@ -96,7 +96,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
@@ -129,6 +129,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  art_movements: 
+  art_movements:
     output: true
     permalink: /art_movements/:path/
