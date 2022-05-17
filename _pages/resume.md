@@ -22,10 +22,10 @@ Rachel Huls
 **Computer Science Department, UIS**  Springfield, IL
 
 *Research Assistant*
-  * Implement theoretical models as code
-  * Conduct simulations with MATLAB and Python
-  * Analyze data and report findings from simulations
-  * Assist supervisor in writing and publishing research to DNA28
+  * Implemented theoretical models as code
+  * Conducted simulations with MATLAB and Python
+  * Analyzed data and report findings from simulations
+  * Assisted supervisor in writing and publishing research to DNA28
 
 **Parkland College**  Champaign, IL
 
