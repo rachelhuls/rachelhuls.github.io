@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Resume"
-    url: /resume/
+  - title: "Resumé"
+    url: https://rachelhuls.github.io/resume-web/
   - title: "Works"
     url: /works/
   - title: "Posts"
